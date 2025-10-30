@@ -1,0 +1,28 @@
+.services {
+	padding-top: 80px;
+	padding-bottom: 50px;
+	text-align: center;
+  	width: 100%;
+}
+.content-list{
+	display: flex;
+	justify-content: center;
+	
+}
+.icon{
+	margin: 50px;
+}
+.icon h6{
+	font-weight: bold;
+}
+.toggle-button{
+	background-color: #ca1515;
+	color: white;
+	
+}
+
+#btn-send:hover {
+    opacity: 0.7;
+
+}
+
